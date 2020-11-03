@@ -10,6 +10,7 @@ header{
     flex-direction: column;
     flex-grow: 0;
     background-color: black;
+    padding: 5px;
 }
 
 h1{
