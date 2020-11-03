@@ -37,6 +37,16 @@ nav a{
     margin: 0 .5vw;
 }
 
+.active{
+    background-color: #ffffff;
+    color: #000000;
+}
+
+nav a:hover:not(.active){
+    background-color: #b2b2b2;
+    color: #000000;
+}
+
 /* main content */
 
 
