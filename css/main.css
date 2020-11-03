@@ -10,6 +10,7 @@ header{
     flex-direction: column;
     flex-grow: 0;
     background-color: black;
+    padding: 5px;
 }
 
 h1{
@@ -31,7 +32,7 @@ nav a{
     font-size: 110%;
     color: white;
     padding: 5px;
-    border: 20px solid white;
+    border: 5px solid white;
     border-radius: 5px;
 }
 
